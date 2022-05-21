@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Alisa.
-- 👀 I’m interested in anime and pyton.
-- 📫 How to reach me telegram: @albaspial.
+- Hi, I’m Alisa.
+- I’m interested in anime and pyton.
+- How to reach me telegram: @albaspial.
 
 
 <!---
